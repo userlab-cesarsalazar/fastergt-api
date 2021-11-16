@@ -9,7 +9,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.467.0",
+    "aws-sdk": "^2.814.0",
     "moment-timezone": "^0.5.25",
     "mysql2": "^1.6.5",
     "serverless-offline": "^5.12.1"
