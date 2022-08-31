@@ -13,7 +13,7 @@
     "aws-sdk": "^2.464.0",
     "bcryptjs": "^2.4.3",
     "jwt-decode": "^2.2.0",
-    "moment-timezone": "^0.5.25",
+    "moment-timezone": "^0.5.35",
     "mysql2": "^1.6.5",
     "serverless-offline": "^4.10.3"
   }
