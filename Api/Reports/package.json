@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.467.0",
-    "moment-timezone": "^0.5.25",
+    "moment-timezone": "^0.5.35",
     "mysql2": "^1.6.5",
     "serverless-offline": "^5.12.1"
   }
